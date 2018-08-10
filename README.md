@@ -1,9 +1,5 @@
-# LeetCode 面试必备
 
-* 英文官网: https://leetcode.com
-* 中文官网: https://leetcode-cn.com
-
-## 1.LeetCode 习题集合
+## 集合
 
 * [LeetCode 习题集合](/docs/Leetcode_Solutions)
 
@@ -28,27 +24,16 @@
 11. [nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
 12. [剑指 Offer 题解](https://github.com/gatieme/CodingInterviews)
 
-### Please note, this repository is inspired from [KrisYu](https://github.com/KrisYu/LeetCode-CLRS-Python). However, it has been modified, added and improved to reflect our knowledge, wisdom and effort.
+
+
 
  - 💪 就是干！如果你觉得有帮助请点个star，谢谢！
 
 ## 项目贡献者
 
-> 项目发起人
 
-* [@Lisanaaa](https://github.com/Lisanaaa)
-* [@片刻](https://github.com/jiangzhonglian)
 
-> 贡献者（欢迎大家来追加）
 
-* [@Lisanaaa](https://github.com/Lisanaaa)
-* [@片刻](https://github.com/jiangzhonglian)
-
-## 免责声明
-
-ApacheCN 纯粹出于学习目的与个人兴趣整理的内容。
-
-整理内容只供学习研究参考之用。ApacheCN 保留对此版本内容的署名权及其它相关权利。
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
